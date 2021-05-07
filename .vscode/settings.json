@@ -11,9 +11,6 @@
     "eslint.run": "onSave",
     "telemetry.enableTelemetry": false,
     "typescript.tsserver.experimental.enableProjectDiagnostics": true,
-    "conventionalCommits.scopes": [
-        "serialization"
-    ],
     "conventionalCommits.autoCommit": false,
     "conventionalCommits.gitmoji": false
 }
